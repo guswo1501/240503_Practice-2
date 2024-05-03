@@ -10,7 +10,16 @@
 #define AGE 1
 #define BIRTH 2
 
-using namespace std;
+
+
+
+
+
+
+using std::cout;
+using std::cin;
+using std::endl;
+using std::string;
 
 
 void inputStudents(string** student_inputArr, int num);
